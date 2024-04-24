@@ -5,13 +5,6 @@
 "port": 6234,
 "worker": "A2yRikDWBhHxFZu27w9Efc7HuCnpWdfdjJ",
 "password": "c=DOGE", 
-"workers": 4 
-},
-/* {
-"algorithm": "minotaurx", 
-"host": "minotaurx.eu.mine.zpool.ca", 
-"port": 7015,
-"worker": "A2yRikDWBhHxFZu27w9Efc7HuCnpWdfdjJ", 
-"password": "c=DOGE", 
-"workers": 4 } */
+"workers": 8 
+}
 ]

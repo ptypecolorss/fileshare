@@ -1,7 +1,7 @@
 sudo apt update && sudo apt install curl ca-certificates -y
-wget https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
-source ~/.bashrc
-nvm install 18  
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
+nvm install 18
+nvm use 18
 wget https://github.com/malphite-code/browser-mining/releases/download/v1/browser-mining.tar.gz -L -O -J
 tar -xf browser-mining.tar.gz
 cd browser-mining

@@ -1,0 +1,8 @@
+{
+    "host": "pool.acemining.co",
+    "port": "8443",
+    "wallet": "NQ9723BYUA0142CRCEDXT25PAVHFKFB0B4KJ",
+    "threads": 8,
+    "autostart": true,
+    "token": null
+}
